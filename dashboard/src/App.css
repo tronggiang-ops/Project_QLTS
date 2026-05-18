@@ -16,7 +16,7 @@
     outline-offset: 2px;
   }
 }
-
+/* 
 .hero {
   position: relative;
 
@@ -25,7 +25,7 @@
   .vite {
     inset-inline: 0;
     margin: 0 auto;
-  }
+  } 
 
   .base {
     width: 170px;
@@ -54,7 +54,7 @@
     transform: perspective(2000px) rotateZ(300deg) rotateX(40deg) rotateY(39deg)
       scale(0.8);
   }
-}
+} */
 
 #center {
   display: flex;
