@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 import axios from "axios";
 
 const API = "http://localhost:8000";
-
+//oèoojojojvpkvqkvpkvpek
 function StatusBadge({ status }) {
   const map = {
     trusted: { label: "✅ Tin cậy", cls: "badge-green" },
