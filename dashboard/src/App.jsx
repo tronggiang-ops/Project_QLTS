@@ -13,7 +13,7 @@ function StatusBadge({ status }) {
   const s = map[status] || map.unknown;
   return <span className={`badge ${s.cls}`}>{s.label}</span>;
 }
-
+// testtttttttttttttt các thứ
 function VerifiedBadge({ status }) {
   const map = {
     verified_ok: { label: "✅ Hợp lệ", cls: "badge-green" },
